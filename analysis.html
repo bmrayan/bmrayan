@@ -450,7 +450,7 @@
     <!-- Fault Classification Analysis -->
     <section class="section">
       <h2>Fault Classification Analysis</h2>
-      <p>The database contains 18 transformers with fault classifications providing representation for diagnostic validation. While limited in absolute numbers, these cases demonstrate distinct gas signature patterns essential for algorithm development.</p>
+      <p>The database contains 18 transformers with fault classifications providing representation for diagnostic validation. The majority of transformers (725) remain unclassified, representing normal operational conditions. The classified cases demonstrate distinct gas signature patterns essential for algorithm development.</p>
       
       <div class="figure-container">
         <img src="FinalFigures1/05_fault_analysis.png" alt="Fault Analysis">
@@ -462,19 +462,23 @@
       <div class="stats-grid">
         <div class="stat-card">
           <span class="stat-number">14</span>
-          <span class="stat-label">No Fault (77.8%)</span>
+          <span class="stat-label">No Fault (1.9%)</span>
         </div>
         <div class="stat-card">
           <span class="stat-number">2</span>
-          <span class="stat-label">Electrical Fault (11.1%)</span>
+          <span class="stat-label">Electrical Fault (0.3%)</span>
         </div>
         <div class="stat-card">
           <span class="stat-number">2</span>
-          <span class="stat-label">Thermal Fault (11.1%)</span>
+          <span class="stat-label">Thermal Fault (0.3%)</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-number">725</span>
+          <span class="stat-label">Unclassified (97.6%)</span>
         </div>
       </div>
 
-      <p>This fault distribution represents authentic transformer operating conditions and diagnostic scenarios encountered in practice. The analysis of mean gas concentrations across fault categories reveals distinct patterns, with electrical faults showing elevated acetylene and thermal faults displaying higher ethylene and ethane concentrations.</p>
+      <p>This fault distribution represents authentic transformer operating conditions where most transformers operate normally without fault classification. The classified cases provide valuable diagnostic reference points, with electrical faults showing elevated acetylene and thermal faults displaying higher ethylene and ethane concentrations.</p>
     </section>
 
     <!-- DGA Interpretation Methods -->
