@@ -7132,7 +7132,7 @@ const dgaData = [
               <td>${row.Ethylene.toFixed(1)}</td>
               <td>${row.Ethane.toFixed(1)}</td>
               <td>${row.Acetylene.toFixed(1)}</td>
-              <td>${row.Fault}</td>
+              <td>${row.Fault === 'No Fault' ? 'NA' : row.Fault}</td>
             </tr>
           `;
         });
