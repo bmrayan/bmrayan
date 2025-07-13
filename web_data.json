@@ -1,0 +1,155 @@
+[
+  {
+    "ID": 1,
+    "Hydrogen": 3930.0,
+    "Methane": 2397.0,
+    "Ethylene": 0.0,
+    "Ethane": 157.0,
+    "Acetylene": 0.0,
+    "Fault": "Partial discharge"
+  },
+  {
+    "ID": 2,
+    "Hydrogen": 37800.0,
+    "Methane": 1740.0,
+    "Ethylene": 8.0,
+    "Ethane": 249.0,
+    "Acetylene": 8.0,
+    "Fault": "Partial discharge"
+  },
+  {
+    "ID": 3,
+    "Hydrogen": 92600.0,
+    "Methane": 10200.0,
+    "Ethylene": 0.0,
+    "Ethane": 0.0,
+    "Acetylene": 0.0,
+    "Fault": "Partial discharge"
+  },
+  {
+    "ID": 4,
+    "Hydrogen": 8266.0,
+    "Methane": 1061.0,
+    "Ethylene": 0.0,
+    "Ethane": 22.0,
+    "Acetylene": 0.0,
+    "Fault": "Partial discharge"
+  },
+  {
+    "ID": 5,
+    "Hydrogen": 9340.0,
+    "Methane": 995.0,
+    "Ethylene": 6.0,
+    "Ethane": 60.0,
+    "Acetylene": 7.0,
+    "Fault": "Partial discharge"
+  },
+  {
+    "ID": 6,
+    "Hydrogen": 36036.0,
+    "Methane": 4704.0,
+    "Ethylene": 5.0,
+    "Ethane": 554.0,
+    "Acetylene": 10.0,
+    "Fault": "Partial discharge"
+  },
+  {
+    "ID": 7,
+    "Hydrogen": 33046.0,
+    "Methane": 619.0,
+    "Ethylene": 2.0,
+    "Ethane": 58.0,
+    "Acetylene": 0.0,
+    "Fault": "Partial discharge"
+  },
+  {
+    "ID": 8,
+    "Hydrogen": 40280.0,
+    "Methane": 1069.0,
+    "Ethylene": 1.0,
+    "Ethane": 1060.0,
+    "Acetylene": 1.0,
+    "Fault": "Partial discharge"
+  },
+  {
+    "ID": 9,
+    "Hydrogen": 26788.0,
+    "Methane": 18342.0,
+    "Ethylene": 27.0,
+    "Ethane": 2111.0,
+    "Acetylene": 0.0,
+    "Fault": "Partial discharge"
+  },
+  {
+    "ID": 10,
+    "Hydrogen": 78.0,
+    "Methane": 20.0,
+    "Ethylene": 13.0,
+    "Ethane": 11.0,
+    "Acetylene": 28.0,
+    "Fault": "Spark discharge"
+  },
+  {
+    "ID": 11,
+    "Hydrogen": 305.0,
+    "Methane": 100.0,
+    "Ethylene": 161.0,
+    "Ethane": 33.0,
+    "Acetylene": 541.0,
+    "Fault": "Spark discharge"
+  },
+  {
+    "ID": 12,
+    "Hydrogen": 35.0,
+    "Methane": 6.0,
+    "Ethylene": 26.0,
+    "Ethane": 3.0,
+    "Acetylene": 482.0,
+    "Fault": "Spark discharge"
+  },
+  {
+    "ID": 13,
+    "Hydrogen": 543.0,
+    "Methane": 120.0,
+    "Ethylene": 411.0,
+    "Ethane": 41.0,
+    "Acetylene": 1880.0,
+    "Fault": "Spark discharge"
+  },
+  {
+    "ID": 14,
+    "Hydrogen": 1230.0,
+    "Methane": 163.0,
+    "Ethylene": 233.0,
+    "Ethane": 27.0,
+    "Acetylene": 692.0,
+    "Fault": "Spark discharge"
+  },
+  {
+    "ID": 15,
+    "Hydrogen": 645.0,
+    "Methane": 86.0,
+    "Ethylene": 110.0,
+    "Ethane": 13.0,
+    "Acetylene": 317.0,
+    "Fault": "Spark discharge"
+  },
+  {
+    "ID": 16,
+    "Hydrogen": 60.0,
+    "Methane": 10.0,
+    "Ethylene": 4.0,
+    "Ethane": 4.0,
+    "Acetylene": 4.0,
+    "Fault": "Spark discharge"
+  },
+  {
+    "ID": 17,
+    "Hydrogen": 95.0,
+    "Methane": 10.0,
+    "Ethylene": 11.0,
+    "Ethane": 0.0,
+    "Acetylene": 39.0,
+    "Fault": "Spark discharge"
+  }
+]

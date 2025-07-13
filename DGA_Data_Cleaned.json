@@ -1,0 +1,155 @@
+[
+  {
+    "NM": 1,
+    "H2": 3930,
+    "CH4": 2397,
+    "C2H6": 157,
+    "C2H4": 0,
+    "C2H2": 0,
+    "Type": "Partial discharge"
+  },
+  {
+    "NM": 2,
+    "H2": 37800,
+    "CH4": 1740,
+    "C2H6": 249,
+    "C2H4": 8,
+    "C2H2": 8,
+    "Type": "Partial discharge"
+  },
+  {
+    "NM": 3,
+    "H2": 92600,
+    "CH4": 10200,
+    "C2H6": 0,
+    "C2H4": 0,
+    "C2H2": 0,
+    "Type": "Partial discharge"
+  },
+  {
+    "NM": 4,
+    "H2": 8266,
+    "CH4": 1061,
+    "C2H6": 22,
+    "C2H4": 0,
+    "C2H2": 0,
+    "Type": "Partial discharge"
+  },
+  {
+    "NM": 5,
+    "H2": 9340,
+    "CH4": 995,
+    "C2H6": 60,
+    "C2H4": 6,
+    "C2H2": 7,
+    "Type": "Partial discharge"
+  },
+  {
+    "NM": 6,
+    "H2": 36036,
+    "CH4": 4704,
+    "C2H6": 554,
+    "C2H4": 5,
+    "C2H2": 10,
+    "Type": "Partial discharge"
+  },
+  {
+    "NM": 7,
+    "H2": 33046,
+    "CH4": 619,
+    "C2H6": 58,
+    "C2H4": 2,
+    "C2H2": 0,
+    "Type": "Partial discharge"
+  },
+  {
+    "NM": 8,
+    "H2": 40280,
+    "CH4": 1069,
+    "C2H6": 1060,
+    "C2H4": 1,
+    "C2H2": 1,
+    "Type": "Partial discharge"
+  },
+  {
+    "NM": 9,
+    "H2": 26788,
+    "CH4": 18342,
+    "C2H6": 2111,
+    "C2H4": 27,
+    "C2H2": 0,
+    "Type": "Partial discharge"
+  },
+  {
+    "NM": 10,
+    "H2": 78,
+    "CH4": 20,
+    "C2H6": 11,
+    "C2H4": 13,
+    "C2H2": 28,
+    "Type": "Spark discharge"
+  },
+  {
+    "NM": 11,
+    "H2": 305,
+    "CH4": 100,
+    "C2H6": 33,
+    "C2H4": 161,
+    "C2H2": 541,
+    "Type": "Spark discharge"
+  },
+  {
+    "NM": 12,
+    "H2": 35,
+    "CH4": 6,
+    "C2H6": 3,
+    "C2H4": 26,
+    "C2H2": 482,
+    "Type": "Spark discharge"
+  },
+  {
+    "NM": 13,
+    "H2": 543,
+    "CH4": 120,
+    "C2H6": 41,
+    "C2H4": 411,
+    "C2H2": 1880,
+    "Type": "Spark discharge"
+  },
+  {
+    "NM": 14,
+    "H2": 1230,
+    "CH4": 163,
+    "C2H6": 27,
+    "C2H4": 233,
+    "C2H2": 692,
+    "Type": "Spark discharge"
+  },
+  {
+    "NM": 15,
+    "H2": 645,
+    "CH4": 86,
+    "C2H6": 13,
+    "C2H4": 110,
+    "C2H2": 317,
+    "Type": "Spark discharge"
+  },
+  {
+    "NM": 16,
+    "H2": 60,
+    "CH4": 10,
+    "C2H6": 4,
+    "C2H4": 4,
+    "C2H2": 4,
+    "Type": "Spark discharge"
+  },
+  {
+    "NM": 17,
+    "H2": 95,
+    "CH4": 10,
+    "C2H6": 0,
+    "C2H4": 11,
+    "C2H2": 39,
+    "Type": "Spark discharge"
+  }
+]
